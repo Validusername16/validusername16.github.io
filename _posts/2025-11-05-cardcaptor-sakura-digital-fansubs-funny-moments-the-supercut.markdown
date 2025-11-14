@@ -357,7 +357,7 @@ Credits: Translated, Subbed, and Timed by DancinHomer; Edited by Yue; #AnimeHeav
 
 "You really care for Kero-chan, don't you? Even now ..."
 
-クロウさんのこと 本当に好きなんですね 今も ずっと
+月... クロウさんのこと 本当に好きなんですね 今も ずっと
 
 Pioneer: "Yue... you really do love Mr. Clow, don't you... You still do..."
 
@@ -671,7 +671,7 @@ They tried to spell out the book name, failed, and got the name of the book enti
 
 "I'll have to make arrangements."
 
-そろそろ月(ユエ)が限界だろう
+そろそろ月が限界だろう
 
 Pioneer: "Yue is about to hit his limit right about now..."
 
@@ -775,6 +775,24 @@ The main cast are not fourth graders at this point in the series. They are at th
 ## Episode 67:
 
 Credits: Edited by DualSoul; Timed by ^Soujiro^; #Asian-Anime@EFNet; Raws thanks to sisko, Sent by Kelvin
+
+![](/assets/ccs-fansubs/67-5.png)
+
+"I just woke up. Would you like me to get the newspaper?"
+
+日直だし 目 覚めちゃったから… 新聞 ここ置いとくね
+
+Pioneer: I have daily chores today, and I just woke up, so... I'll leave the newspaper right here.
+
+NISA: I'm doing the daily report today, and I just woke up, so... I'll leave the newspaper right here.
+
+Animax: I woke up early because I'm on duty. I'll leave your newspaper here.
+
+Rabi: I'm on duty...  And I happened to be awake already. I'll leave the newspaper here, okay?
+<br><br>
+
+If you look closely at the bottom right of the screen, you can see that she is already holding the newspaper. The other half of the line got lost along the way as well.
+<br><br>
 
 ![](/assets/ccs-fansubs/67-1.jpg)
 ![](/assets/ccs-fansubs/67-2.jpg)
@@ -1087,7 +1105,8 @@ With the exception of episode 63, which included the additional line "I slowly w
 The digital fansubs for this show are not good. I never expected them to be good, and I would have been surprised if they were. However, they're still a fascinating time capsule into a very different time. Most of these episodes were produced by teams of one to two people with a script they found somewhere online, trying to do a service for the community well before digital fansubbing had caught on, and I have nothing but respect for anyone who worked on this show during this time. I hope that you, the reader, enjoyed seeing all of these translation inaccuracies and oddities as much as I enjoyed finding them out for myself, and I implore you to look at the translations yourself if you are interested in seeing any other oddities that were excluded from this, or to even try to find the lines that the old fansubs managed to pull off better than the official releases did. If you made it this far, thank you for reading this.
 
 
-Also, if you have any files related to this show that I do not, please reach out to me. I know there are alternate copies of a bunch of these episodes, and I would love to see them to compare.
+Also, if you have any files related to this show that I do not, or know anything that I do not, please reach out to me. I know there are alternate copies of a bunch of these episodes, and I would love to see them to compare.
+
 <br><br>
 [Back to top](#)
-<br><br>
+<br>
